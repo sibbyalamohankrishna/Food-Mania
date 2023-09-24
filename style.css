@@ -211,7 +211,7 @@
 }
 
 .follow-us-section {
-    background-color: white;
+    background-color: rgb(225, 243, 245);
 }
 
 .follow-us-section-heading {
@@ -228,12 +228,12 @@
     height: 80px;
     border-radius: 40px;
     margin: 15px;
-    padding: 22px 16px 14px 22px;
+    padding: 22px 16px 14px 24px;
 
 }
 
 .icon {
-    color: #d0b200;
+    color: #e1c524;
     font-size: 35px;
 }
 
@@ -253,4 +253,34 @@
     color: #959ead;
     font-family: "Roboto";
     font-size: 14px;
+}
+.port-footer {
+    background-color: #0d2436;
+}
+
+.port-footer-image {
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
+}
+
+.port-main-heading {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+.port-copy-right {
+    background-color: #001c32;
+}
+
+.port-description {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.contact-icon {
+    color: #5a7184;
+    font-size: 25px;
 }
